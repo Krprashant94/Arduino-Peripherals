@@ -1,0 +1,52 @@
+:Author: (Prashant Kumar)[https://github.com/Krprashant94]
+:Email: {kr.prashant94@gmail.com}
+:Date: 03/02/2019
+:Revision: 1.0.1
+:License: MIT
+
+= Project: Servo Motor uses in Arduino
+
+This program is simple illustration of SG-90 survo motor.
+
+== Step 1: Installation
+To use this pice of code download the Arduino software and run this code. This code is tested on Arduino Uno and Mega.
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit as in layout.png
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ Servo                        => Arduino sketch folder
+  ├── Servo.ino               => main Arduino file
+  ├── layout.png              => Circuit Diagram
+  └── README.adoc             => this file
+....
+
+=== License
+This project is released under a License given in root directory.
+If you want to use any piece of code please cite me as given below
+
+NOTE: P. K. Prasad, "Arduino Peripherals," 03-Feb-2019. [Online]. Available: https://github.com/Krprashant94/Arduino-Peripherals. [Accessed: 04-Feb-2019]
+
+=== Contributing
+To contribute this project please contact krprashant94 https://id.arduino.cc/krprashant94 or krprashant94 https://github.com/Krprashant94
+
+=== BOM
+Bill of the materials need for this project.
+
+|===
+| SL | Part name         | Model       | Quantity
+| 1  | Servo Motor       | SG-90       | 1
+| 2  | Arduino UNO       | R3          | 1
+| 3  | Programming Cable | USB 2.0     | 1
+|===
+
+
+=== Help
+Fell free to contact me for help
