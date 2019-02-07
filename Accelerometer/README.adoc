@@ -12,6 +12,8 @@ It takes input form wire library and shows in serial moniter.
 == Step 1: Installation
 To use this pice of code, download Arduino software and run this code. My code is tested on Arduino Uno and Mega.
 
+install `MPU6050_tockn` by going `sketch > Include Library > Manage Library`
+
 == Step 2: Assemble the circuit
 
 Assemble the circuit as in layout.png
