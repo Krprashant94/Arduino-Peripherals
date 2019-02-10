@@ -2,21 +2,21 @@
 
 ### Index 
 
-- [Accelerometer](Accelerometer)
+- [Accelerometer MPU-5060](Accelerometer)
 
-- [Bluetooth](Bluetooth)
+- [Bluetooth HC-05](Bluetooth)
 
-- [Five_Sensor](Five_Sensor)
+- [Five IR Sensor Sensor Array](Five_Sensor)
 
-- [Lissures](Lissures)
+- [Lissures Figure Plot Using TFT Display](Lissures)
 
-- [Motor](Motor)
+- [Motor Drive](Motor)
 
-- [PasswordPort](PasswordPort)
+- [PasswordPort in serial moniter](PasswordPort)
 
-- [Servo](Servo)
+- [Servo motor controllng](Servo)
 
-- [Touch_shield](Touch_shield)
+- [Touch Shield Numpad in TFT Display](Touch_shield)
 
 
 ***Please contrubute this repository***
