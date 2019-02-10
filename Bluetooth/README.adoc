@@ -13,7 +13,9 @@ To use this pice of code, download Arduino software and run this code. My code i
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit as in layout.png
+Assemble the circuit as given below
+
+image::circuit.jpg[Circuit Diagram]
 
 == Step 3: Load the code
 
