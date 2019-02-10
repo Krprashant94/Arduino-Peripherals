@@ -18,7 +18,7 @@ install `MPU6050_tockn` by going `sketch > Include Library > Manage Library`
 
 Assemble the circuit as given below
 
-![Circuit Diagram](circuit.jpg)
+![Circuit Diagram](./circuit.jpg)
 
 == Step 3: Load the code
 
