@@ -13,7 +13,7 @@ To use this pice of code download the Arduino software and run this code. This c
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit as in layout.png
+Mount the TFT Display shield in Arduino
 
 == Step 3: Load the code
 
