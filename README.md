@@ -3,7 +3,7 @@
 
 ### Index 
 
-- [Accelerometer MPU-5060](Accelerometer)
+- [Accelerometer MPU-6050](Accelerometer)
 
 - [Bluetooth HC-05](Bluetooth)
 
